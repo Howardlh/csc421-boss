@@ -1,2 +1,2 @@
 # csc421-boss
-Creat CNN 
+Create CNN 
